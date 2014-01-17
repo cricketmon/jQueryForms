@@ -1,0 +1,74 @@
+/* 
+//  cricket ( )
+//  creado bajo el techo de __digitalperforming__ el 2014-01-16
+//  actualizado el xxxx-xx-xx
+//  ene punto ramirez arroba digital punto o ere ge punto eme equis
+//  habiendo dicho eso, bienvenido a al codigo
+*/ 
+
+input{
+  width: 80%;
+}
+
+/* ---------- Form Error ---------- */
+
+.success {
+  font: normal 12px Arial, Helvetica, sans-serif;
+  float: left;
+  width: 100%;
+  display: none;
+  padding: 20px 15px 25px 15px;
+  font-weight: bold;
+  color: #73b819;
+}
+
+.inputContainer {
+  position: relative;
+  float: left;
+}
+
+.alerts {
+  position: absolute;
+  z-index: 5000;
+  display: block;
+  cursor: pointer;
+}
+
+.alerts .alertsContent {
+  position: relative;
+  z-index: 5001;
+  width: 150px;
+  padding: 10px 10px;
+  font-family: Tahoma;
+  font-size: 11px;
+  color: #ffffff;
+  background: #000000;
+  border: 1px solid #333333;
+  -webkit-border-radius: 5px;
+     -moz-border-radius: 5px;
+          border-radius: 5px;
+}
+
+.greenPopup .alertsContent {
+  background: #33be40;
+}
+
+.blackPopup .alertsContent {
+  color: #ffffff;
+  background: #393939;
+}
+
+.alerts .alertsArrow {
+  position: relative;
+  z-index: 5006;
+  width: 0;
+  height: 0;
+  margin: -2px 0 0 40px;
+  border-top: 10px solid #000;
+  border-right: 10px solid transparent;
+  border-left: 10px solid transparent;
+}
+
+.color_3 {
+  color: #ff0000;
+}
