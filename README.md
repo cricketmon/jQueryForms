@@ -26,4 +26,4 @@
 > Si se va a utilizar en html libre, las rutas deben ser sin slash al inicio "php/mailhandler.php"
 > Si se va a utilizar en friendlyURI, las rutas deben llevar slash al inicio "/php/mailhandler.php"
 
-[link](http://www.perceptive-studio.com/)
+[mailto](vaio_nestor@yahoo.com)
