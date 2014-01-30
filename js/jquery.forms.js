@@ -85,7 +85,7 @@ $(document).ready(function(){
 		process(lang,refer);
 	});
 
-	$('.alerts').live("click", function() {
+	$(document).on("click", ".alerts", function() {
 		$(this).fadeOut(150, function(){ $(this).remove(); });
 	});
 });
