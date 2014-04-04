@@ -77,7 +77,7 @@ $(document).ready(function(){
 	$('#contactForm .submit, #newslettersForm .submit').click(function(e){
 		e.preventDefault();
 
-		var refer = '#' + $(this).closest('div').attr('id');
+		var refer = '#' + $(this).closest('form').parent().attr('id');
 		var lang = $('.lang').val();
 
 		$(".alerts").remove();
