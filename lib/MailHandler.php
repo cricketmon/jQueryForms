@@ -1,10 +1,10 @@
 <?php
 /* 
 //  cricket ( )
-//  creado bajo el techo de __digitalperforming__ el 2014-01-16
+//  creado bajo el techo de __Club Sandwich Co__ el 2014-01-16
 //  actualizado el xxxx-xx-xx
-//  ene punto ramirez arroba digital punto o ere ge punto eme equis
-//  habiendo dicho eso, bienvenido a al codigo
+//  nestor arroba club sandwich punto eme equis
+//  habiendo dicho eso, bienvenido al codigo
 */  
 
 
